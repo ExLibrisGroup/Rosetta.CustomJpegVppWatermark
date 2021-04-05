@@ -8,4 +8,4 @@ Steps for deploying your custom jpeg VPP Watermark-
 
 3) Create your own file delivery rule using the customized viewer.
 
-Developer Network : https://developers.exlibrisgroup.com/rosetta/sdk/plugins
+Developer Network : https://developers.exlibrisgroup.com/rosetta/integrations/plugins
